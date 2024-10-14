@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I'm a Unity Developer, worked on Educational project, mobile, AR and web3 project before.<br>👯 I am interest as a part of indie game projects as side projects.<br>🌱 I had been learning 3D model and animation using Blender for own projects.<br>💬 I can help on plan and work on any idea of game project.<br>⚡ I very love indie games and also JACG culture.
+🔭  I'm a Unity Developer, worked on Educational project, mobile, AR and web3 project before.<br>👯 I am interest to be a part of indie game projects as side projects.<br>🌱 I had been learning 3D model and animation using Blender for own projects.<br>💬 I can help on plan and work on any idea of game project.<br>⚡ I very love indie games and also JACG culture.
 
 
 ## 🌐 Socials:
